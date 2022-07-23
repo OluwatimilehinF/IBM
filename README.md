@@ -1,3 +1,3 @@
-# IBM
-IBM projects
+# IBM course
+IBM course
 Welcome!
